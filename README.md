@@ -11,7 +11,8 @@ Get the associated rules from 1984 United States Congressional Voting Records Da
 
 ## Usage:
 - Running the module in the terminal:
-  * `python3 csce474_apriori.py -s [minimum support] -c [minimum confidence]` \ (example: python3 csce474_apriori.py -s 0.1 -c 1)
+  * `python3 csce474_apriori.py -s [minimum support] -c [minimum confidence]`\ 
+  (example: python3 csce474_apriori.py -s 0.1 -c 1)
 
  
 
