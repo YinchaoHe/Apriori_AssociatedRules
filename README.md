@@ -1,5 +1,5 @@
 # Apriori_AssociatedRules
-I use apriori algorithm to get the associated rules from 1984 United States Congressional Voting Records Database
+Get the associated rules from 1984 United States Congressional Voting Records Database using Apriori algorithm.
 
 ## Description 
 - csce474_apriori.py is used to determine the frequent sets in a dataset and then generate the association rules, the inputs are minimum support and minimum confidence. In addition,  the outputs are graphs that plot the runtime of the algorithm and the number of rules generated as a function of minimum support, and a .txt file that has all association rules of the dataset. (Mention: the user only needs to input minimum support and minimum confidence once, then the program will run the algorithm ten times, every time minimum support increases 0.1)
