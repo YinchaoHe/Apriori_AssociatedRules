@@ -10,7 +10,7 @@ I use apriori algorithm to get the associated rules from 1984 United States Cong
 - vote.csv is an input file, that is the dataset of this program.
 
 ## Usage:
-Running the module in the terminal:
+- Running the module in the terminal:
   `python3 csce474_apriori.py -s [minimum support] -c [minimum confidence]`
 (example: python3 csce474_apriori.py -s 0.1 -c 1)
 
